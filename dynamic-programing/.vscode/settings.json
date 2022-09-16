@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*html": "html",
+        "*njk": "html",
+        "ostream": "cpp",
+        "valarray": "cpp",
+        "numeric": "cpp"
+    }
+}

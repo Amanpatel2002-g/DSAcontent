@@ -11,7 +11,8 @@ void modefiedString(string &filename){
     filename+=".cpp";
 }
 int main(){
-    string fileName = "Partition a set into two subsets such that the difference of subset sums is minimum";
+    string fileName;
+    getline(cin, fileName);
     string comment = "// "+fileName;
     modefiedString(fileName);
     ofstream Myfile(fileName);
