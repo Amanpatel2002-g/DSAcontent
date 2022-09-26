@@ -4,6 +4,7 @@
         "*njk": "html",
         "ostream": "cpp",
         "valarray": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "vector": "cpp"
     }
 }
