@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*html": "html",
+        "*njk": "html",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "stdexcept": "cpp",
+        "stack": "cpp",
+        "variant": "cpp",
+        "string_view": "cpp",
+        "memory_resource": "cpp",
+        "filesystem": "cpp"
+    }
+}
