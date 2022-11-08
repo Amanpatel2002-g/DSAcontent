@@ -6,6 +6,7 @@
         "string": "cpp",
         "string_view": "cpp",
         "valarray": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "iostream": "cpp"
     }
 }
